@@ -1,11 +1,11 @@
 {
-  "TRAIN_NO": "20933",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "28/10/2025",
-  "SOURCE_STATION": "UDN",
+  "TRAIN_NO": "20959",
+  "TRAIN_COACH": CC",
+  "TRAVEL_DATE": "26/10/2025",
+  "SOURCE_STATION": "ST",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DDU",
-  "TATKAL": false,
+  "DESTINATION_STATION": "BH",
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
@@ -13,13 +13,6 @@
       "NAME": "Satish Kumar",
       "AGE": 26,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
